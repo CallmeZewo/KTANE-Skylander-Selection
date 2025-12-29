@@ -1,0 +1,10 @@
+{
+  "name": "SkylanderElimination-Editor",
+  "references": [
+    "SkylanderElimination"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": []
+}
