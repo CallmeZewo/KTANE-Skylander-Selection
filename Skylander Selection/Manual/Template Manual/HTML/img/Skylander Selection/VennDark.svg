@@ -21,13 +21,13 @@
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
      inkscape:zoom="8.1041667"
-     inkscape:cx="85.264781"
+     inkscape:cx="85.079691"
      inkscape:cy="74.714653"
-     inkscape:window-width="2560"
-     inkscape:window-height="1369"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1143"
+     inkscape:window-height="1211"
+     inkscape:window-x="1111"
+     inkscape:window-y="106"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg20" />
   <g
      fill="none"
@@ -55,7 +55,7 @@
   </g>
   <text
      xml:space="preserve"
-     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#fcff00;stroke-width:0.186"
+     style="font-size:11.562px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#fcff00;stroke-width:0.186"
      x="12.913333"
      y="110.63585"
      id="text49"
@@ -64,12 +64,12 @@
      inkscape:transform-center-y="-0.23626929"><tspan
        x="12.913333"
        y="110.63585"
-       id="tspan7"><tspan
+       id="tspan2"><tspan
          style="fill:#00cfff"
-         id="tspan6">Water</tspan></tspan></text>
+         id="tspan1">Water</tspan></tspan></text>
   <text
      xml:space="preserve"
-     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#fcff00;stroke-width:0.186"
+     style="font-size:10.7557px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#fcff00;stroke-width:0.186"
      x="12.913333"
      y="110.63585"
      id="text54-0"
@@ -78,12 +78,12 @@
      inkscape:transform-center-y="-0.3408017"><tspan
        x="12.913333"
        y="110.63585"
-       id="tspan9"><tspan
+       id="tspan4"><tspan
          style="fill:#6dff00"
-         id="tspan8">Life</tspan></tspan></text>
+         id="tspan3">Life</tspan></tspan></text>
   <text
      xml:space="preserve"
-     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#fcff00;stroke-width:0.186"
+     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#fcff00;stroke-width:0.186;font-size:10.6815544px"
      x="12.913333"
      y="110.63585"
      id="text54-9"
@@ -92,12 +92,12 @@
      inkscape:transform-center-y="0.14860199"><tspan
        x="12.913333"
        y="110.63585"
-       id="tspan11"><tspan
+       id="tspan6"><tspan
          style="fill:#babb26"
-         id="tspan10">Earth</tspan></tspan></text>
+         id="tspan5">Earth</tspan></tspan></text>
   <text
      xml:space="preserve"
-     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#ff9900;fill-opacity:1;stroke-width:0.186"
+     style="font-size:10.6816px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#ff9900;fill-opacity:1;stroke-width:0.186"
      x="12.913333"
      y="110.63585"
      id="text54-9-8"
@@ -106,10 +106,10 @@
      inkscape:transform-center-y="-0.040113257"><tspan
        x="12.913333"
        y="110.63585"
-       id="tspan12">Tech</tspan></text>
+       id="tspan7">Tech</tspan></text>
   <text
      xml:space="preserve"
-     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#ff0007;fill-opacity:1;stroke-width:0.186"
+     style="font-size:10.6816px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#ff0007;fill-opacity:1;stroke-width:0.186"
      x="12.913333"
      y="110.63585"
      id="text54-9-8-5"
@@ -118,10 +118,10 @@
      inkscape:transform-center-y="-0.011737724"><tspan
        x="12.913333"
        y="110.63585"
-       id="tspan13">Fire</tspan></text>
+       id="tspan8">Fire</tspan></text>
   <text
      xml:space="preserve"
-     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#ff0007;fill-opacity:1;stroke-width:0.186"
+     style="font-size:10.6816px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#ff0007;fill-opacity:1;stroke-width:0.186"
      x="12.913333"
      y="110.63585"
      id="text54-9-8-5-1"
@@ -130,12 +130,12 @@
      inkscape:transform-center-y="-0.65720565"><tspan
        x="12.913333"
        y="110.63585"
-       id="tspan15"><tspan
+       id="tspan10"><tspan
          style="fill:#affffc"
-         id="tspan14">Air</tspan></tspan></text>
+         id="tspan9">Air</tspan></tspan></text>
   <text
      xml:space="preserve"
-     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#ff9900;fill-opacity:1;stroke-width:0.186"
+     style="font-size:10.6816px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#ff9900;fill-opacity:1;stroke-width:0.186"
      x="12.913333"
      y="110.63585"
      id="text54-9-8-2"
@@ -144,12 +144,12 @@
      inkscape:transform-center-y="-0.1372733"><tspan
        x="12.913333"
        y="110.63585"
-       id="tspan17"><tspan
+       id="tspan12"><tspan
          style="fill:#d100d4"
-         id="tspan16">Magic</tspan></tspan></text>
+         id="tspan11">Magic</tspan></tspan></text>
   <text
      xml:space="preserve"
-     style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#b0b0b0;fill-opacity:1;stroke-width:0.186"
+     style="font-size:12.0266px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;white-space:pre;inline-size:62.4096;display:inline;fill:#b0b0b0;fill-opacity:1;stroke-width:0.186"
      x="12.913333"
      y="110.63585"
      id="text54-0-4"
@@ -158,7 +158,7 @@
      inkscape:transform-center-y="0.12939859"><tspan
        x="12.913333"
        y="110.63585"
-       id="tspan18">Undead</tspan></text>
+       id="tspan13">Undead</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:16.4993px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.255739;stroke:none;stroke-opacity:1"
@@ -216,15 +216,15 @@
        style="stroke-width:0.255739;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">G</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:16.4993px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.255739;stroke:none;stroke-opacity:1"
-     x="87.320312"
-     y="101.0771"
+     style="font-size:16.4993px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.255739;stroke-opacity:1"
+     x="88.978523"
+     y="101.86283"
      id="text54-1-5-2"><tspan
        sodipodi:role="line"
        id="tspan54-1-2-3"
-       x="87.320312"
-       y="101.0771"
-       style="stroke-width:0.255739;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">K</tspan></text>
+       x="88.978523"
+       y="101.86283"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.255739;stroke-opacity:1">J</tspan></text>
   <text
      xml:space="preserve"
      style="font-size:16.4993px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.255739;stroke:none;stroke-opacity:1"
@@ -271,7 +271,7 @@
        style="stroke-width:0.255739;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">F</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:16.4993px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.255739;stroke:none;stroke-opacity:1"
+     style="font-size:16.4993px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.255739;stroke-opacity:1"
      x="50.690491"
      y="111.47299"
      id="text54-1-5-27"><tspan
@@ -279,10 +279,10 @@
        id="tspan54-1-2-9"
        x="50.690491"
        y="111.47299"
-       style="stroke-width:0.255739;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">L</tspan></text>
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.255739;stroke-opacity:1">K</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:16.4993px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.255739;stroke:none;stroke-opacity:1"
+     style="font-size:16.4993px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.255739;stroke-opacity:1"
      x="88.664787"
      y="134.97942"
      id="text54-1-5-54"><tspan
@@ -290,10 +290,10 @@
        id="tspan54-1-2-31"
        x="88.664787"
        y="134.97942"
-       style="stroke-width:0.255739;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">P</tspan></text>
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.255739;stroke-opacity:1">O</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:9.98197px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.15472;stroke:none;stroke-opacity:1"
+     style="font-size:9.98197px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15472;stroke-opacity:1"
      x="105.87361"
      y="117.6102"
      id="text54-1-5-23"><tspan
@@ -301,10 +301,10 @@
        id="tspan54-1-2-34"
        x="105.87361"
        y="117.6102"
-       style="stroke-width:0.15472;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">N</tspan></text>
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15472;stroke-opacity:1">N</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:16.4993px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.255739;stroke:none;stroke-opacity:1"
+     style="font-size:16.4993px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.255739;stroke-opacity:1"
      x="121.18406"
      y="112.46014"
      id="text54-1-5-11"><tspan
@@ -312,18 +312,18 @@
        id="tspan54-1-2-38"
        x="121.18406"
        y="112.46014"
-       style="stroke-width:0.255739;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">M</tspan></text>
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.255739;stroke-opacity:1">L</tspan></text>
   <text
      xml:space="preserve"
-     style="font-size:9.98197px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke-width:0.15472;stroke:none;stroke-opacity:1"
-     x="72.793236"
-     y="117.36341"
+     style="font-size:9.98197px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15472;stroke-opacity:1"
+     x="72.052872"
+     y="117.6102"
      id="text54-1-5-74"><tspan
        sodipodi:role="line"
        id="tspan54-1-2-2"
-       x="72.793236"
-       y="117.36341"
-       style="stroke-width:0.15472;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">O</tspan></text>
+       x="72.052872"
+       y="117.6102"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15472;stroke-opacity:1">M</tspan></text>
   <text
      xml:space="preserve"
      style="text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:none;fill-opacity:1;stroke-width:0.186;stroke:#ffffff;stroke-opacity:1"
