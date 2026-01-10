@@ -1435,7 +1435,7 @@ MonoBehaviour:
   - {fileID: 114250414455246154}
   - {fileID: 114019226999824980}
   - {fileID: 114277583224581874}
-  Elements:
+  ElementSprites:
   - {fileID: 21300000, guid: 98ddad7e83d9b354081de5ad568ba68e, type: 3}
   - {fileID: 21300000, guid: f20478edf554fab40af7634017654f6a, type: 3}
   - {fileID: 21300000, guid: 133fb047fb970b04aa24bd38f8280984, type: 3}
@@ -1444,7 +1444,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 895b3fa4940eeaf42bd4769df38fa7a9, type: 3}
   - {fileID: 21300000, guid: d6045500b27718c41a985eb04fe2ecf3, type: 3}
   - {fileID: 21300000, guid: 835df697376703a44818375f73b8d4de, type: 3}
-  Skylander:
+  SkylanderSprites:
   - {fileID: 21300000, guid: c784634275706794eb61797039571b09, type: 3}
   - {fileID: 21300000, guid: 54c984ee36c89fd4187db7ecc01322a4, type: 3}
   - {fileID: 21300000, guid: 5b892fb29e9d86d498bff8b9ced1b5cc, type: 3}
@@ -1477,7 +1477,7 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 6d497fe0a0be1634ba88f0826eff52ce, type: 3}
   - {fileID: 21300000, guid: 1e81da11a7fad5d4fa43dca716d33217, type: 3}
   - {fileID: 21300000, guid: 4916c5c2e906bf145b311e4efb132f95, type: 3}
-  Chapter:
+  ChapterSprites:
   - {fileID: 21300000, guid: 4d074694c2732d24d92a37608d80914e, type: 3}
   - {fileID: 21300000, guid: b95b30557dfcb874d855abcec3054543, type: 3}
   - {fileID: 21300000, guid: 7afdb901fff6abc46871f640d3c0639e, type: 3}
